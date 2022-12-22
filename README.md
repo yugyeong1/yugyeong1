@@ -1,8 +1,4 @@
-<div align="Center">
 
-### Hi there 👋
-
-</div>
 
 <br/>
 
@@ -34,11 +30,11 @@
 
 <div>
 
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white"/> 
-<br/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white"/> 
+  <br/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
 
 
 </div>
@@ -46,4 +42,9 @@
 <br/> 
 
 ### 🎨 SNS
-
+  
+<div align='Center'>
+  <br/> 
+  
+[<img src="https://img.shields.io/badge/Tistory-F37626?style=flat&logo=Tistory&logoColor=white"/>](https://yu1129.tistory.com/)
+[<img src="https://img.shields.io/badge/Gmail-005FF9?style=flat&logo=Gmail&logoColor=white"/>](dbrud1032@gmail.com)
