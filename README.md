@@ -34,7 +34,7 @@
 
 <div>
 
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-00205B?style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> 
   <br/>
   <img src="https://img.shields.io/badge/Android Studio-428813?style=for-the-badge&logo=Android Studio&logoColor=white"/>
