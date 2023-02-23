@@ -1,14 +1,12 @@
 <div align="Center">
 
-###  Welcome, My Git ! 👋🏻
-
  </div>
  
 <br/>
 
 <div align="Center">
 
-### 🌟 Platfroms & languages 🌟
+### ✔ Platfroms & languages 
 
 
 
@@ -28,7 +26,7 @@
 
 <div align="Center">
 
-### 🛠 Tools 🛠
+### ✔ Tools 
 
 <br/>
 
